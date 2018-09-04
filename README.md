@@ -1,6 +1,16 @@
 # todo
+>A vue demo project
 
-> A Vue.js project
+## 特性介绍
+* 基本的任务添加/完成/删除 功能
+
+* 浏览器本地存储
+
+* ### html5  
+ 使用了语义化标签，localstorage本地存储 
+ 
+* ### css3
+ flex布局
 
 ## Build Setup
 
