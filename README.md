@@ -4,13 +4,11 @@
 ## 特性介绍
 * 基本的任务添加/完成/删除 功能
 
-* 浏览器本地存储
+* 浏览器本地存储 -- localstorage
 
-* ### html5  
- 使用了语义化标签，localstorage本地存储 
+* 使用了html5语义化标签
  
-* ### css3
- flex布局
+* css3 -- flex布局
 
 ## Build Setup
 
