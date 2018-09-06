@@ -44,7 +44,7 @@ export default {
   position: relative;
   height: 100%;
   width: 45px;
-  flex: 0 1 auto;
+  flex: 0 0 auto;
 }
 .box-input {
   flex: 1 1 0px;
